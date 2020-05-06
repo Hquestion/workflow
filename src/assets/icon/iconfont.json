@@ -1,0 +1,58 @@
+{
+  "id": "1796122",
+  "name": "tbi-task",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "tbi 任务创建",
+  "glyphs": [
+    {
+      "icon_id": "7564760",
+      "name": "arrow drop down",
+      "font_class": "arrow-down",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "14458565",
+      "name": "arrow drop down",
+      "font_class": "arrow-up",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "4052875",
+      "name": "删除／数字面板编辑态",
+      "font_class": "del2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7026318",
+      "name": "绩效管理-人员选择",
+      "font_class": "renyuanxuanze",
+      "unicode": "e8b0",
+      "unicode_decimal": 59568
+    },
+    {
+      "icon_id": "11930167",
+      "name": "添加",
+      "font_class": "plus",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "14025631",
+      "name": "删 除",
+      "font_class": "shanchu",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "14099987",
+      "name": "拖拽",
+      "font_class": "tuozhuai",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
